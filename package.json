@@ -1,7 +1,7 @@
 {
-  "homepage" : "https://pyxis1321.github.io/JS-Cooking-App/",
+  "homepage" : "https://pyxis1321.github.io/JS-Cooking-App",
   "name": "cooking-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
